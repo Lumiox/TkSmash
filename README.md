@@ -1,5 +1,7 @@
+<header>
 <h1>TkSmash</h1>
 <h2>Fight for glory !</h2>
+</header>
 
 <section>
 <h3>Welcome aboard TkSmash universe !</h3>
@@ -27,5 +29,5 @@
 <p>If you are familiar with the GitHub world and community, the reponse is obvious : if you propose modifications, if you add and therefore improve this content, we will be really glad to add and specify your contribution to this project.</p>
 <h4>What should I know about this project ?</h4>
 <p>This project is part of a project that will be marked by teachers qualified in the computer science and programming fields. This note will count for the french "baccalauréat", and is therefore coded and commented in FRENCH. However, if you express your interest in an English translation, we can translate the whole project once it has been graded : the project will be open to such translation starting from July.</p>
-<p><strong>Note :</strong> as a first in colloborative programming, we have kept this project basic, and are aware of the strong parts that should be improved and / or optimised</p>
+<p><strong>Note :</strong> as a first in colloborative programming, we have kept this project basic, and are aware of the strong parts that should be improved and / or optimized</p>
 </section>
