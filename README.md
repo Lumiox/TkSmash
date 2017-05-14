@@ -11,6 +11,8 @@
 <li>The first player uses "Q" (left), "D" (right), "Z" (jump) and "Space" (hit)</li>
 <li>The second player uses the left, right and top directional arrows to move plus the "P" key to hit</li>
 </ul>
+<h4>What is TkSmash made of ?<h4>
+<p>Other than several headaches, TkSmash is based on Python graphical interface Tkinter. At this time, no other programming language is used. We use the last Python 3.x versions of this language.</p>
 <h4>Who is involved in this project ?</h4>
 <p>Four collaborators have made this project, which will be graded as it is part of an exam. Among those collaborators are :</p>
 <ul>
