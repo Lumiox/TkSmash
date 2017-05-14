@@ -808,8 +808,8 @@ for cheminP1 in cheminImagesSautDroiteP1:
     imagesSautDroiteP1.append( PhotoImage(file=cheminP1) )
 
  # Sprite combat
-cheminImagesFrappeGaucheP1 = ["img/perso/1/frappe/G/{}.gif".format(i+1) for i in range(2)]
-cheminImagesFrappeDroiteP1 = ["img/perso/1/frappe/D/{}.gif".format(i+1) for i in range(2)]
+cheminImagesFrappeGaucheP1 = ["img/perso/1/frappe/CG/{}.gif".format(i+1) for i in range(2)]
+cheminImagesFrappeDroiteP1 = ["img/perso/1/frappe/CD/{}.gif".format(i+1) for i in range(2)]
 imagesFrappeGaucheP1, imagesFrappeDroiteP1 = list(), list()
 for cheminP1 in cheminImagesFrappeGaucheP1:
     imagesFrappeGaucheP1.append( PhotoImage(file=cheminP1) )
@@ -841,8 +841,8 @@ for cheminP2 in cheminImagesSautDroiteP2:
     imagesSautDroiteP2.append( PhotoImage(file=cheminP2) )
 
  # Sprite combat
-cheminImagesFrappeGaucheP2 = ["img/perso/2/frappe/CG/FG{}.gif".format(i+1) for i in range(2)]
-cheminImagesFrappeDroiteP2 = ["img/perso/2/frappe/CD/FD{}.gif".format(i+1) for i in range(2)]
+cheminImagesFrappeGaucheP2 = ["img/perso/2/frappe/G/FG{}.gif".format(i+1) for i in range(2)]
+cheminImagesFrappeDroiteP2 = ["img/perso/2/frappe/D/FD{}.gif".format(i+1) for i in range(2)]
 imagesFrappeGaucheP2, imagesFrappeDroiteP2 = list(), list()
 for cheminP2 in cheminImagesFrappeGaucheP2:
     imagesFrappeGaucheP2.append( PhotoImage(file=cheminP2) )
